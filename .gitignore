@@ -1,0 +1,44 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución / empaquetado
+dist/
+build/
+*.egg-info/
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.env
+
+# Archivos de configuración local
+config.ini
+config.json
+*.cfg
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Archivos de datos generados
+*.csv
+*.json
+*.xlsx
+*.db
+*.sqlite3
+
+# Archivos específicos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Archivos de credenciales
+credentials.json
+api_keys.py
+secret_config.py
