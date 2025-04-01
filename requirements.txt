@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+requests
+websocket-client
+ccxt
+ta 
